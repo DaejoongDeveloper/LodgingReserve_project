@@ -33,9 +33,6 @@
                       <li>
                           <a class="admin_list_04" href="/admin/lodgingList">숙소 목록</a>
                       </li>
-                      <li>
-                          <a class="admin_list_05">회원 관리</a>                            
-                      </li>                          
                        <li>
 	                      <a class="admin_list_06" href="/admin/reserveList">예약 현황</a>                            
 	                  </li>                                                                   

@@ -6,7 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <title>숙박 예약</title>
-<link rel="stylesheet" href="/resources/css/main.css?asdfasdf">
+<link rel="stylesheet" href="/resources/css/main.css?asdfaaasdf">
 <script
   src="https://code.jquery.com/jquery-3.4.1.js"
   integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
@@ -96,7 +96,7 @@
 		</div>
 		</div>      </div>
       <div class="content_area">
-         <h1></h1>
+         <img src="resources/img/aaa.png">
       </div>
       <!-- Footer 영역 -->
         <div class="footer_nav">

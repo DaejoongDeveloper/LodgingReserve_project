@@ -234,6 +234,11 @@ a {
    color: #606267;
 }
 
+.content_area>img {
+   width: 100%;
+   height: 100%;
+}
+
 /* footer navai 영역 */
 .footer_nav {
    width: 1080px;
