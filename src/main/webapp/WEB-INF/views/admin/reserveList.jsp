@@ -7,7 +7,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<link rel="stylesheet" href="../resources/css/admin/reserveList.css?aadb">
+<link rel="stylesheet" href="../resources/css/admin/reserveList.css?afffadb">
  
 <script
   src="https://code.jquery.com/jquery-3.4.1.js"

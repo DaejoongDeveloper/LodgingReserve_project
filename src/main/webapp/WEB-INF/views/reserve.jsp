@@ -7,7 +7,7 @@
 <head>
 <meta charset="UTF-8">
 <title>숙박 예약</title>
-<link rel="stylesheet" href="/resources/css/reserve.css?kghhsdkfk">
+<link rel="stylesheet" href="/resources/css/reserve.css?kgaaafk">
 <script src="https://code.jquery.com/jquery-3.4.1.js"
 	integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
 	crossorigin="anonymous"></script>
@@ -180,40 +180,23 @@
 
 				</div>
 			</div>
-			<!-- Footer 영역 -->
-			<div class="footer_nav">
-				<div class="footer_nav_container">
-					<ul>
-						<li>회사소개</li>
-						<span class="line">|</span>
-						<li>이용약관</li>
-						<span class="line">|</span>
-						<li>고객센터</li>
-						<span class="line">|</span>
-						<li>광고문의</li>
-						<span class="line">|</span>
-						<li>채용정보</li>
-						<span class="line">|</span>
-					</ul>
-				</div>
-			</div>
-			<!-- class="footer_nav" -->
-
-			<div class="footer">
-				<div class="footer_container">
-
-					<div class="footer_left">
-						<img src="../resources/img/Logo.png">
-					</div>
-					<div class="footer_right">
-						(주) BootCamp 대표이사 : 김대중 <br> 사업자등록번호 : 123-45-67890 <br>
-						대표전화 : 1111-1111(발신자 부담전화) <br> <br> COPYRIGHT(C) <strong>abc.com</strong>
-						ALL RIGHTS RESERVED.
-					</div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-			<!-- class="footer" -->
+			 <!-- Footer 영역 -->
+        <div class="footer">
+            <div class="footer_container" >
+                
+                <div class="footer_right" style="clear:both; border-top:1px solid #ccc;"><br>
+                    <h1>010 - 7303 - 9737</h1>
+                    <br>
+                    <h2>주소 : 대전광역시 서구 / 계좌번호 : [김대중]945802 - 00 - 000000(김대중)</h2>
+                    <br>
+                    <h2>대표자 : 김대중 / 업체명 : 부트캠프</h2>
+                    <br>
+                    <br>
+                    COPYRIGHT(C) <strong>BootCamp</strong>    ALL RIGHTS RESERVED 관리자
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div> <!-- class="footer" -->
 
 		</div>
 	</div>
